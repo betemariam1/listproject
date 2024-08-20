@@ -1,0 +1,450 @@
+{
+  "project_info": {
+    "project_number": "545177776822",
+    "project_id": "academic-ballers",
+    "storage_bucket": "academic-ballers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545177776822:android:ef91e427c037d7d912ec17",
+        "android_client_info": {
+          "package_name": "com.mycompany.academicballers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545177776822-lan1m4611421dqckmaii7qhclef8irl1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.academicballers",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "545177776822-egged82aas2kdfmkq7aoqltqogkl8c09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArZLzRQu3S_2pyEoNwJgCjOZnbhd4sZBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545177776822-4f7eg9msnu5q6o94c7v493eunton8tt0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "545177776822-47c50o0ihg038cqs04oprvrgu7g9mom2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.steeful.thelist"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545177776822:android:3e3dee1a288a29b012ec17",
+        "android_client_info": {
+          "package_name": "com.mycompany.myacademicballers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545177776822-6rc1nss1dnrukfs4mfa7ph8a6avi1pb5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.myacademicballers",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "545177776822-egged82aas2kdfmkq7aoqltqogkl8c09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArZLzRQu3S_2pyEoNwJgCjOZnbhd4sZBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545177776822-4f7eg9msnu5q6o94c7v493eunton8tt0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "545177776822-47c50o0ihg038cqs04oprvrgu7g9mom2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.steeful.thelist"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545177776822:android:d222379dd652bea812ec17",
+        "android_client_info": {
+          "package_name": "com.mycompany.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545177776822-egged82aas2kdfmkq7aoqltqogkl8c09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArZLzRQu3S_2pyEoNwJgCjOZnbhd4sZBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545177776822-4f7eg9msnu5q6o94c7v493eunton8tt0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "545177776822-47c50o0ihg038cqs04oprvrgu7g9mom2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.steeful.thelist"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545177776822:android:db97ec06b7c15d2612ec17",
+        "android_client_info": {
+          "package_name": "com.steeful.acadamicballerweb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545177776822-qdh2glhubc0n33ot41d1oqtqa07kndh7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.steeful.acadamicballerweb",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "545177776822-egged82aas2kdfmkq7aoqltqogkl8c09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArZLzRQu3S_2pyEoNwJgCjOZnbhd4sZBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545177776822-4f7eg9msnu5q6o94c7v493eunton8tt0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "545177776822-47c50o0ihg038cqs04oprvrgu7g9mom2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.steeful.thelist"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545177776822:android:af6b10da202dff6812ec17",
+        "android_client_info": {
+          "package_name": "com.steeful.academicballers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545177776822-gccuk295af416o1o16al712pdvo50o68.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.steeful.academicballers",
+            "certificate_hash": "4535f6908873b15a1bf4eecb0a09a45b9500c995"
+          }
+        },
+        {
+          "client_id": "545177776822-s7tc7bc8n1mg0m84q3mq3a9bd8nukcou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.steeful.academicballers",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "545177776822-egged82aas2kdfmkq7aoqltqogkl8c09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArZLzRQu3S_2pyEoNwJgCjOZnbhd4sZBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545177776822-4f7eg9msnu5q6o94c7v493eunton8tt0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "545177776822-47c50o0ihg038cqs04oprvrgu7g9mom2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.steeful.thelist"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545177776822:android:abaa8b6be43730ea12ec17",
+        "android_client_info": {
+          "package_name": "com.steeful.academicballers2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545177776822-l7okpd86c7c4dg31jgejkugbcq8g68mm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.steeful.academicballers2",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "545177776822-egged82aas2kdfmkq7aoqltqogkl8c09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArZLzRQu3S_2pyEoNwJgCjOZnbhd4sZBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545177776822-4f7eg9msnu5q6o94c7v493eunton8tt0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "545177776822-47c50o0ihg038cqs04oprvrgu7g9mom2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.steeful.thelist"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545177776822:android:e614aaec39358ca512ec17",
+        "android_client_info": {
+          "package_name": "com.steeful.academicballerscheckout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545177776822-aq7j79dv4g5amriko4ilm7vge8tlqvjo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.steeful.academicballerscheckout",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "545177776822-egged82aas2kdfmkq7aoqltqogkl8c09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArZLzRQu3S_2pyEoNwJgCjOZnbhd4sZBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545177776822-4f7eg9msnu5q6o94c7v493eunton8tt0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "545177776822-47c50o0ihg038cqs04oprvrgu7g9mom2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.steeful.thelist"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545177776822:android:5fd4b70318b8913012ec17",
+        "android_client_info": {
+          "package_name": "com.steeful.academicballerscoaches"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545177776822-sscbif5oqcpf05j7qjp8a56sqhob0ut1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.steeful.academicballerscoaches",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "545177776822-egged82aas2kdfmkq7aoqltqogkl8c09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArZLzRQu3S_2pyEoNwJgCjOZnbhd4sZBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545177776822-4f7eg9msnu5q6o94c7v493eunton8tt0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "545177776822-47c50o0ihg038cqs04oprvrgu7g9mom2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.steeful.thelist"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545177776822:android:7bfba2438e61fdf812ec17",
+        "android_client_info": {
+          "package_name": "com.steeful.landingpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545177776822-84qe01umlla8s5aun53qmed81a439r18.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.steeful.landingpage",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "545177776822-egged82aas2kdfmkq7aoqltqogkl8c09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArZLzRQu3S_2pyEoNwJgCjOZnbhd4sZBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545177776822-4f7eg9msnu5q6o94c7v493eunton8tt0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "545177776822-47c50o0ihg038cqs04oprvrgu7g9mom2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.steeful.thelist"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545177776822:android:f943017726b1a47112ec17",
+        "android_client_info": {
+          "package_name": "com.steeful.thelist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545177776822-1mk5t3o07bgm2r7vjfdqs5tf7r4gihtd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.steeful.thelist",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "545177776822-egged82aas2kdfmkq7aoqltqogkl8c09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArZLzRQu3S_2pyEoNwJgCjOZnbhd4sZBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545177776822-4f7eg9msnu5q6o94c7v493eunton8tt0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "545177776822-47c50o0ihg038cqs04oprvrgu7g9mom2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.steeful.thelist"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
